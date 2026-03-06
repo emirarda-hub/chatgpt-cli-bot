@@ -26,3 +26,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/chatgpt-cli-bot.git
 cd chatgpt-cli-bot
+
+## Setup API Key
+
+You need an OpenAI API key to run this project.
+
+Set your API key as an environment variable.
+
+Mac / Linux:
+
+```bash
+export OPENAI_API_KEY="your_api_key_here"
