@@ -1,6 +1,3 @@
-# chatgpt-cli-bot
-A simple CLI chatbot built with Python and the OpenAI API.
-
 # ChatGPT CLI Bot
 
 A simple command-line chatbot built with Python and the OpenAI API.  
